@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Silas Kolly
 
-<!--
-**silaskolly/silaskolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in training from Switzerland.
 
-Here are some ideas to get you started:
+I'm currently building full-stack applications with **C# / .NET, React, TypeScript and PostgreSQL** and expanding my skills in **Docker, testing, CI/CD and cloud technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+* Informatiker EFZ Applikationsentwicklung
+* Interested in backend and full-stack development
+* Currently working on personal software projects
+* Focused on writing maintainable and production-oriented software
+* Preparing for software development opportunities in New Zealand
+
+## Tech Stack
+
+**Backend**
+
+C# · .NET · ASP.NET Core · REST APIs
+
+**Frontend**
+
+TypeScript · React · HTML · CSS
+
+**Database**
+
+PostgreSQL · SQL · Entity Framework Core
+
+**Tools & DevOps**
+
+Git · GitHub · Docker · GitHub Actions
+
+## Featured Projects
+
+### DevFlow
+
+A full-stack project and task management platform built to explore modern software development practices.
+
+**C# · ASP.NET Core · React · TypeScript · PostgreSQL · Docker**
+
+More details coming soon.
+
+### Freezlet
+
+A full-stack web application developed as a personal project.
+
+**TypeScript · Vue · Node.js · PostgreSQL · Docker**
+
+### ZumTueschle
+
+A mobile application with a backend and PostgreSQL database.
+
+**Flutter · Dart · Node.js · PostgreSQL · Firebase**
+
+## Currently Learning
+
+C# / .NET · React · PostgreSQL · Testing · Docker · CI/CD · Azure
+
+---
+
+[GitHub](https://github.com/silaskolly)
